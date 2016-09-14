@@ -23,6 +23,9 @@ public class HelloGitHub {
 		// TODO Auto-generated method stub
 
 		System.out.println("Sample GitHub");
+		
+		//testing changes 1
+		System.out.println("changes test");
 	}
 
 }
